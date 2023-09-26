@@ -10,7 +10,10 @@ Using  the Azure CLI to get   a Token
 Command:  az account get-access-token
 Token = (Copy the Token in the variable )
 
-
+Run Command "az resource list" on Azure CLI and get the values for the below 
 subscriptionId = "subscriptionId"
 resourceGroupName = "resourceGroupName"
 serviceName = "serviceName"
+
+
+if this was helpfull, Please share  and am open to improments 
