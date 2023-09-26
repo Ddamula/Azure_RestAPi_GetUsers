@@ -16,4 +16,4 @@ resourceGroupName = "resourceGroupName"
 serviceName = "serviceName"
 
 
-if this was helpfull, Please share  and am open to improments 
+if this was helpfull, Please share  and am open to improvements 
